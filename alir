@@ -1,0 +1,35 @@
+[33mcommit a54eb468f457b726f4a6cf7ff81a505ed09f6624[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew_features[m[33m, [m[1;31morigin/new_features[m[33m)[m
+Author: santiago N <santiago.naranjo1@udea.edu.co>
+Date:   Sat Feb 17 19:40:08 2024 -0500
+
+    se cambio el color de la pagina,y se agregaron links de redes sociales
+
+[33mcommit 0455f5bc710811b489f772569aa3581d5b54c1f0[m
+Author: santiago N <santiago.naranjo1@udea.edu.co>
+Date:   Sat Feb 17 19:35:42 2024 -0500
+
+    se agrego un archivo llamado index.html
+
+[33mcommit 2c36ccb9bb8e0dde1730643cca077ac956198692[m
+Author: santiago N <santiago.naranjo1@udea.edu.co>
+Date:   Sat Feb 17 19:21:44 2024 -0500
+
+    se respondieron las preguntas basicas de informacion personal
+
+[33mcommit 545dbcb182bc390747b61c9001a302efb096ec97[m
+Author: santiago N <santiago.naranjo1@udea.edu.co>
+Date:   Sat Feb 17 19:11:50 2024 -0500
+
+    se creo una carpeta llamada styles donde se guardo un archivo.css
+
+[33mcommit 6ea1dbf4871ad7c232bd0776e5707372d61d2e05[m
+Author: santiago N <santiago.naranjo1@udea.edu.co>
+Date:   Sat Feb 17 19:07:22 2024 -0500
+
+    se creo un archivo .html  se creo una rama nueva de trabajo
+
+[33mcommit f8fe1dc904b9d830800a5220ea64b9edaf00c6cf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: santiago N <santiago.naranjo1@udea.edu.co>
+Date:   Sat Feb 17 18:55:50 2024 -0500
+
+    first commit
