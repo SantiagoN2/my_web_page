@@ -1,4 +1,5 @@
 # my_web_page
+Estos son los comandos utilizados para el desarrolo de esta practica
 git init
 git add
 git commit -m
